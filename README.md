@@ -72,5 +72,5 @@ What gene regulatory networks are activated at this stage?
 
 
 For questions or collaborations, please contact:
-📧boschek@upstate.edu
+📧boschenk@upstate.edu
 🔗 GitHub: @kumaxbala12
