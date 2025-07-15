@@ -55,3 +55,22 @@ E10ScRNAandATACseqData/
 ├── notebooks/              # Annotated analysis workflows
 ├── figures/                # Publication-ready plots
 └── README.md               # This file
+
+📚 Key Tools & Packages
+Seurat, Signac, Monocle3, scVelo
+
+ArchR, Cicero, Harmony
+
+ggplot2, ComplexHeatmap, UCell, Scanpy
+
+🔬 Biological Questions
+What are the transcriptional identities and trajectories of E10 neural crest and neuroepithelial populations?
+
+How does chromatin accessibility correspond to transcriptional state?
+
+What gene regulatory networks are activated at this stage?
+
+
+For questions or collaborations, please contact:
+📧boschek@upstate.edu
+🔗 GitHub: @kumaxbala12
